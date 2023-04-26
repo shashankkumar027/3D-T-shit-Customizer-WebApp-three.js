@@ -12,4 +12,4 @@ Link: https://github.com/shashankkumar027/Ecommerce-mern-Backend
 
 # Shorts:
 
-![Pics]{E:\Web Backend\1.MERN projects\3D T-shirt webApp\Untitled.jpg}
+![Pics!]{E:\Web Backend\1.MERN projects\3D T-shirt webApp\Untitled.jpg}
